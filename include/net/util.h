@@ -1,6 +1,3 @@
-//
-// Created by abhishek on 25/9/22.
-//
 
 
 #ifndef ISJ_RE_22_14571_UTIL_H

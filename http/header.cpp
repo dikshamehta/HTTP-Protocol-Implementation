@@ -1,5 +1,3 @@
-
-
 #include "http/header.h"
 
 namespace http {

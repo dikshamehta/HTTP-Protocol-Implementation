@@ -1,6 +1,4 @@
-//
-// Created by abhishek on 25/9/22.
-//
+
 #include "net_socket/socket_exception.h"
 namespace net_socket{
     socket_exception::socket_exception() = default;

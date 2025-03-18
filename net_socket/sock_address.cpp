@@ -1,6 +1,3 @@
-//
-// Created by abhishek on 25/9/22.
-//
 
 #include "net_socket/sock_address.h"
 #include "util.h"

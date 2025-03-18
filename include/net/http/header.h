@@ -1,7 +1,3 @@
-//
-// Created by abhishek on 25/9/22.
-//
-
 #ifndef ISJ_RE_22_14571_HEADER_H
 #define ISJ_RE_22_14571_HEADER_H
 #include <string>

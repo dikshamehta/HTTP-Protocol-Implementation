@@ -1,7 +1,3 @@
-//
-// Created by abhishek on 25/9/22.
-//
-
 #include "http/response.h"
 
 namespace http {
